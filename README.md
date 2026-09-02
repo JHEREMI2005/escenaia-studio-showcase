@@ -110,6 +110,21 @@ Next production stage
 
 The public diagram is intentionally simplified. Private implementation details, credentials, internal prompts, provider secrets, and proprietary data are not published here.
 
+## Technical code samples
+
+A small set of **sanitized, runnable samples derived from the private codebase** is available in [`demo-code/`](demo-code/).
+
+They demonstrate:
+
+- AI authority boundaries
+- fail-closed structured-output sanitization
+- proposal-first human review
+- immutable-version conflict protection
+- signed authentication transaction state
+- runnable Node.js QA tests
+
+The complete production repository remains private.
+
 ## Current development focus
 
 - strengthening conversational AI behavior
@@ -139,4 +154,4 @@ Cochabamba, Bolivia · Remote
 
 EscenaIA Studio es una plataforma Full-Stack audiovisual asistida por IA que utilizo como producto real en desarrollo activo para fortalecer y demostrar habilidades de integración de IA, coordinación técnica, automatización, QA, producto y arquitectura de software.
 
-El código privado, secretos, credenciales y componentes propietarios no forman parte de este repositorio público.
+El código privado, secretos, credenciales y componentes propietarios no forman parte de este repositorio público. En `demo-code/` se muestran únicamente ejemplos técnicos reducidos y sanitizados.
