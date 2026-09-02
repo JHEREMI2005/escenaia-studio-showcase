@@ -24,6 +24,40 @@ The Intelligence architecture is designed around:
 - human-in-the-loop review
 - traceability between evidence, suggestions, and approved project state
 
+## Product screenshots
+
+### M1 · Brief / Strategy
+
+![EscenaIA Studio — Brief and strategy workspace](assets/screenshots/studio-brief-m1.jpg)
+
+**Brief and strategy workspace.** Conversational project intake, AI-assisted analysis and a structured live brief are presented together so the user can move from natural-language input to an auditable production document.
+
+### M2 · Script / Narrative
+
+![EscenaIA Studio — Script and narrative workspace](assets/screenshots/studio-script-m2.jpg)
+
+**Script development workspace.** The module uses the approved brief as context while the AI-assisted workflow organizes narrative structure, scenes, continuity, dialogue and duration into a structured script state.
+
+### M3 · Visual Direction
+
+![EscenaIA Studio — Visual direction workspace](assets/screenshots/studio-visual-direction-m3.jpg)
+
+**Visual direction workspace.** Project context, AI guidance, production prompts, asset import and comparison controls are combined to support traceable visual decisions before downstream generation.
+
+### M5 · Voice / Vocal Direction
+
+![EscenaIA Studio — Voice and vocal direction workspace](assets/screenshots/studio-voice-m5.jpg)
+
+**Voice and vocal-direction workspace.** Approved upstream project information is brought together to prepare vocal planning, pronunciation, pacing, variants and later authorized generation.
+
+### M7 · Sound Design / SFX
+
+![EscenaIA Studio — Sound design and SFX workspace](assets/screenshots/studio-sound-design-m7.jpg)
+
+**Sound-design workspace.** The module organizes sound architecture, events, Foley, ambience, spatial perspective, synchronization, rights and transfer toward the editing stage.
+
+> The screenshots show the product interface in active development. They are portfolio evidence of the workflow and UI; they do not expose the private production codebase.
+
 ## My role
 
 **Founder · AI-Assisted Full-Stack Product Builder**
@@ -133,12 +167,6 @@ The complete production repository remains private.
 - production hardening
 - improving UX and accessibility
 - preparing public commercial launch
-
-## Screenshots
-
-Screenshots and short product demos will be added as the public showcase is prepared.
-
-> This repository is a portfolio presentation, not the private production source repository.
 
 ## About me
 
